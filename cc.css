@@ -1,0 +1,38 @@
+body{
+    margin: 80px;
+    padding: 0px;
+   
+}
+h1{
+    color: #660000;
+    
+}
+.calcstyle{
+ 
+    width: 35%;
+    background-color: #556B2F;
+    padding: 10px;
+    align-content: center;
+}
+
+input  
+{  
+    width: 10px;  
+    background-color: #333366	;  
+    color: white;  
+    border: 3px solid gray;  
+    border-radius: 5px;  
+    padding: 26px;  
+    margin: 5px;  
+    font-size: 15px;  
+    cursor: pointer;
+    
+}  
+#calc{
+    background-color: white;
+    color: black;
+    width: 50%;
+}
+#clear{
+    width: 45%;
+}
